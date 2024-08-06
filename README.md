@@ -47,4 +47,4 @@ Contributions are welcome! Please submit pull requests to the `develop` branch. 
 
 ### Contact
 For any inquiries or issues, please contact any one of our team members:
-- Email: nelango@tatitlek.com, bheritage@tatitlek.com, ppillai@tatitlek.com
+- Email: nelango@tatitlek.com, bheritage@tatitlek.com, ppillai@gmail.com
